@@ -1,0 +1,38 @@
+backstory:
+the cabin is located deep in the woods, and contains one living room with a small kitchen
+and a bedroom. Upsairs, hidden from sight there is a study and under the cabin, also hidden
+there is a hidden room where the demonic ritual took place.
+the cabin was once home to a crazy person, who tried to summoned an unnamed demon,
+after reading in a book that promised him the fulfillment of all of his wishes by the demon.
+When he then did the summoning through a horrific ritual involving the sacrifice of a person,
+he realized the mistake he made unleashing this demon on the world.
+He then tried to banish the demon again, performing the banishing ritual, sacrfifing himself.
+But this wasn't enough to undo his mistake as he died before finishing it. 
+Instead he only bound it to his cabin limiting its power on the world.
+Using its limited power on the world, the demon then lured whoever it could into the cabin
+and tried to make them summon him completely into the world.
+They all went insane from its influence and eventually killed themselves 
+after returning to the cabin several times
+
+story:
+the characters came to the cabin for different reasons(intrigued by horror stories,...)
+first the only thing they know about the suicies in the cabin(possibly know one of the victims)
+when they come to tha cabin, they need to stay there over night, because it's deep in the woods
+when they first enter the cabin, they find traces of the last person to find the mansion
+she hanged herself in the living room, no one removed the noose yet.
+
+when they look around they find a message she left before hanging herself
+it reads: "i can't take it anymore. These voices always drag me back here, wanting me to do horrible things.
+There is no escape. Maybe in death i will finally be at rest"
+
+the players will here voices in their heads, growing louder over time, first promising them things they want, later giving instructions (killing the others) 	//TODO: demon messages
+sometimes the messages contain information, but nothing that actually helps them a lot(like: "save yourselves", "run" etc)										//TODO: dead people messages
+at night they will all get nightmares, of killing each other and being killed(maybe all the same killer, maybe different ones?) 								//TODO: decide on nightmares, prepare some
+
+outside there are markings on the wall, if they find them they can open a door to the cellar room 																//TODO: puzzle, clues to that
+in the cellar, there is a person hanging on the wall, body slit open, and one person throat slit on the floor => stability test
+on the walls there are strange runes => can be rad 																												//TODO rune text
+in the room, there is also a book, showing different things to everyone, everyone what they want
+there is also a notebook, left behind by the cultist but that's in a strange code 																				//TODO: text in notebook, puzzle for code
+
+players that die become attached to the demon, still having some control over the world, but only limited, they also have bad influences						//TODO: ghost action cards(good and bad)
