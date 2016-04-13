@@ -25,14 +25,30 @@ when they look around they find a message she left before hanging herself
 it reads: "i can't take it anymore. These voices always drag me back here, wanting me to do horrible things.
 There is no escape. Maybe in death i will finally be at rest"
 
-the players will here voices in their heads, growing louder over time, first promising them things they want, later giving instructions (killing the others) 	//TODO: demon messages
+the players will here voices in their heads, growing louder over time																						 	//TODO: demon messages
 sometimes the messages contain information, but nothing that actually helps them a lot(like: "save yourselves", "run" etc)										//TODO: dead people messages
 at night they will all get nightmares, of killing each other and being killed(maybe all the same killer, maybe different ones?) 								//TODO: decide on nightmares, prepare some
 
-outside there are markings on the wall, if they find them they can open a door to the cellar room 																//TODO: puzzle, clues to that
-in the cellar, there is a person hanging on the wall, body slit open, and one person throat slit on the floor => stability test
-on the walls there are strange runes => can be rad 																												//TODO rune text
-in the room, there is also a book, showing different things to everyone, everyone what they want
-there is also a notebook, left behind by the cultist but that's in a strange code 																				//TODO: text in notebook, puzzle for code
+outside there are markings on the wall, if they solve the puzzle they can open a door to the cellar room 														//TODO: puzzle
+there is a missing piece though, and it's needed to open the door
+
+near the cabin there is a body of someone that apparently tried to run away from the cabin
+with this person they can find the missing piece (the person wanted to bring the piece away from the cabin, so the demon can't be summoned)
+The demon stopped him from running away and killed him.
+
+in the cellar, there is a person hanging on the wall, body slit open, and one person disfigured on the floor => stability test
+on the walls there are strange runes => can be read 																											//TODO rune text
+in the room, there is also a book, showing different things to everyone
+there is also a notebook, laying near the cultist, encoded						 																				//TODO: text in notebook, puzzle for code
+
+in the room the demon has the biggest presence
+it closes the door again trapping them inside.
+
+Then it tries to influence the players to sacrafice one of them to summon it into the world.
+If they resist (roll!) it uses all of its power to force them to do it.
+In the notebook there are instructions on how to banish the demon again 
+if they can figure out what it says in the notebook says and resist the demon long enough they can banish it again and escape the cabin
 
 players that die become attached to the demon, still having some control over the world, but only limited, they also have bad influences						//TODO: ghost action cards(good and bad)
+//TODO: demon actions (posession etc.)
+//TODO: ghosts
