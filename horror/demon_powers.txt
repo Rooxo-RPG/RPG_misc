@@ -27,6 +27,10 @@ the demon's powers can only be used in its power radius which is the cabin +abou
 	when the demon talks psychically the person hears the voice inside his head
 	only who the demon wants to hear its message hears it 
 	it can also make someone see pictures in their head/induce hallucinations/nightmares
+	when the demon talks to the players it will try to make them turn on each other and use that as an advantage
+	he will say things like:
+		"he will sacrafice you, stop him"
+		"how did you find this cabin? some of them have to have known about it"
 
 
 Note: the demon cannot use it's powers to force himself(for example use an animal to do it)
