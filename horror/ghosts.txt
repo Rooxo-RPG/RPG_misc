@@ -34,3 +34,6 @@ These are all the ghosts of the people that died in the cabin and are still boun
 		"banish him"
 		"find the book"
 		"you can't escape, you need to finish it"
+
+The players might try and contact the ghosts. If they do, they will expose their minds to the horrors of the demon's mind. 
+This leads to the danger of mental scars, in the worst case insanity, but the contact will normally break before that.
