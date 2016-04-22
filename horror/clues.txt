@@ -16,15 +16,20 @@ These are all the clues the players can find in the cabin
 
 5. If they use the key to open the safe in the wall, the notebook is inside
 	The notebook needs to be deciphered
+	If the players don't figure out, the notebook is caesar deciphered, they might see it in a nightmare or get told by the demon (not explicitely though)
 
-6. In the sacrifice chamber there are runes on the wall
+6. Outside there is a pile of rubbel with forms that seem to stem from a hole in the wall, but a piece is missing(see clue 1.)
+	When they figured the puzzle out(tangram) the wall moves to reveal a door down to beneath the cabin
+	Down there is the sacrifice chamber	
+
+7. In the sacrifice chamber there are runes on the wall
 	if anyone can read the runes they reveal the story of the Nameless One
 	when read the readers voice will change, as if speaking in tongues
 
-7. In the sacrifice chamber there is an old tome
+8. In the sacrifice chamber there is an old tome
 	the tome tells about how to summon and how to banish the demon
 	the demon will want to stop them from finding out how to banish him
 
-8. two bodies are in the sacrifice chamber
+9. two bodies are in the sacrifice chamber
 	one is a slit open person hung from the ceiling, the sacrifice
-	the other one is the acolite, in his hands a bloody improvised cross, made from a knife rammed trough a stick
+	the other one is the acolyte, in his hands a bloody improvised cross, made from a knife rammed trough a stick
