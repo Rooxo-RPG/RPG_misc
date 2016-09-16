@@ -1,7 +1,11 @@
-RPG misc
+#RPG misc
 some random stuff I've prepared for RPGs
 
 * random party: a random fantasy party for a oneshot that never happened
 * SAO: one floor(based on floor 35 in the anime) of SAO in GURPS lite
 * bioshock: detective mistery in rapture from bioshock
 * post-apocalypse: a post-apocalyptic setting(no plot)
+
+##Sources
+
+for the post-apocalypse map I used [these](http://captscott.deviantart.com/art/Fantasy-Brush-Pack-01-191047320) brushes.
