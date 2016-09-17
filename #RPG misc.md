@@ -9,3 +9,5 @@ some random stuff I've prepared for RPGs
 ##Sources
 
 for the post-apocalypse map I used [these](http://captscott.deviantart.com/art/Fantasy-Brush-Pack-01-191047320) brushes.
+
+I'm most likely going to use [this](http://starraven.deviantart.com/art/Sketchy-Cartography-Brushes-198264358) brush pack as well.
