@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="16" tileheight="16" nextobjectid="38">
+ <tileset firstgid="1" name="dungeon_tiles" tilewidth="16" tileheight="16" tilecount="252">
+  <image source="../../../../Pictures/dungeon_tiles.png" trans="ffffff" width="288" height="232"/>
+ </tileset>
+ <layer name="background" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztnMFy2kAQRDex8wUh5OZbZPuWWwL5gjjOP+ZTw5TVRas1C0ICIVz9qqaEBShhWjM7s7tQijHGGGOMMcYYY4wxxlyfDzu729nHI8d7Ot7L359m/1+/H+B/+LIRe9zZEx2H2KpYmzGEFuvW4O+fYpudbek4xFjHL8WaDCG0iPs4/MZ+Vz2a5Bw/F9cIn4emiA++HnSxJof5Vt58FQZ/4ojz4euaFpuy1/OxfR/ig7WFXl/n+Vg3y+fy5kfOLfDvpuz14Ht/2z7G+Ucy5CZ+z4qu/zzPx7pJMG6E3zi3NO3jp/bIWsXzHA/QDdpt2+vxezSfOWf1CS3Ypzp24PGqdPOSxg7rwWOFXg/vtSY5nKfYT1rnwo8YtzUearYt9ZwVMeNxpEuM4+FT9rPWuYgFzk+ZFhs5j1ynYxLrYz26/Ch7H2b9xaExoqYFP5/lPetRh/UIf2GsrtWw7G+uhXG+KV2dND+xHnHOenRBvtJ+G3qovzMNsjyF161LPT6sRx+NDxzRO9T8jtjB6zal34NoDrQex6npAb/Bz8hVXOM2dMzGdu7ztcayHjmhB/ynerCf0ROy39clH0e0T0f9zGOI9chRPTg2dE4X8VKrr7JzqBH0OtDD8yZdVA/cy5keDf19qPfQPh2aIFexHr8u/xFviiw+0APC93zUHoUNOWkl7896dPcfOZkePD8Cv2E813qJ61ueT9djNn5Yjz61+ND5LM5Nun6LeZEVmc5Vad7z/FVObTzX+SzOS7oOhfhAbct6sQ7r0s9jHs+7aP/BuZ79hvWlWt7C2izyVrbmDs1YZ4/nXX7v7E/Z+4p7c72XOVZ0nlB14efZ/6h949963dnfy3/EmyTWQbL1D55zx3O1Glh10fqMn/e4cZiYV6ytf+g9rto0pZ+bdP8Cv9Z94HEib+maXi0muI7SdSvtMVRHjFXOU8fRPT9Z3q/5XcfprM5F3ezYGAbGdt7bwHMcsMzvOkeltRnqgLi+Y+M0oEvUP8j5tZ6i1ufx45diHc5FaPNSsdACcZQ9bw3mJWrk0MK16zKwHssi9PAc7XKYEh+xT5W/W+V9o9OZogdiC7W1e5I+fM8OuV+n6MG9Z+jied4+7KPoGzifZIZ5lDF68PxMmOviPlibQj+NHuK1Nf0bvcfY8Rx76x0bOej9hvZxU+td6OGx4zyEP6esgSM/Oj7Ow9T+A/nRepyHqfEReoSezlfnIfJN6HGqP1FX8284uCecTtzfp+wRCR3uS3cvCh6j7g2drMs40EMc+72FLB7UdC+242UchzTReDhFD8fLeKAJf588tMj8jn1emrP0eyRq1uQ0OE7uyvDfYtL44N8X0u/1fC/l3wPZXJ/tVmFNxupRs3jNg/U4mdAEc1uap7LH1mMeQpehsVHLUXzO87/TQayM0QLmPSrnB/u5anpk9ZV1uDyHdIEO/g7C/GS6xLqLdbgumB/2fPsywPqg928tA6wPev1jGTg+loXjY1l4/Xw56O/Mej79uuj+XY8h14X3pnoMuT4YO/x99GXAe1M9Z2WMMcYYY4wxxhhjjDHGGGOMMca8P/4DRgnYvA==
+  </data>
+ </layer>
+ <layer name="objects" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt21ty0zAUAFAz9BfYQZl+9TfAKoBkugYeO+CxBNhCWQrdQjdVTZM0Go0lx/FDJpwzcyeJG1tqrh4e2W4aAAAAAIC6noW4qF0JnlyH+NrxnZtd5HTtTz8/K+8PkHqf2T50/M/tvxl43HN32Wxzcp1s34//6fZjtc0fm1155F02h5x8aImPSayjv62T76af49hEZZG3ag6/0xyxmuff+qetZgzyvkTv58xFXC4HP/6zcpcubqdTr2/Ex9c/2sXtdOr1jfj4+ke7Wu1U/2hXaqefQnw+8bhd++of7Urt9FuI7ycet2tf/aOd86tlMX8sy1jt9FeI3xXKPTdjtdPbEH8qlHtuhrbTtF8c20/0j2mk/aJvPwGYW9/zK7oNWd89Zt5wf1w/c67vMi7jUx25MaY0PhmXpnPKGGNcAgBgiXLPAj6PoolemVbp2czYetJaAEDe3xD3u1fqabuvd8h9wpxm/5u33de73yYv0yvlISUv0ynlIb1elX6Wl/GV+kN6vSp3/WrI8w70o+0vi7a/HF3zB+MrjUfHzh/GtPEMOUfqc45MP33yIg/zKeVFHuoprZdQz12zXd+9q10RAACYwIsQL0O8ql0RHr1utvdDXtWuCI/ehHgb4l3tigAAAAAAAAAAnLkH7TlfKg==
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1" visible="0">
+  <object id="1" name="Trap" x="732" y="764.5" width="58" height="40.5"/>
+  <object id="4" name="magic water" x="727.333" y="1207.33" width="63.6667" height="63.3333"/>
+  <object id="7" name="miniboss" x="724" y="947.5" width="73" height="86"/>
+  <object id="9" name="minion" x="705" y="901.5" width="29.5" height="19"/>
+  <object id="10" name="minion" x="679.5" y="916" width="26" height="25"/>
+  <object id="11" name="minion" x="644" y="936" width="33" height="23"/>
+  <object id="12" name="minion" x="612" y="947" width="22.5" height="26"/>
+  <object id="13" name="minion" x="618" y="1029" width="16.5" height="18"/>
+  <object id="14" name="minion" x="647.5" y="1046" width="19" height="21"/>
+  <object id="15" name="minion" x="679.5" y="1062.5" width="24" height="19"/>
+  <object id="16" name="minion" x="714" y="1080" width="20" height="17"/>
+  <object id="17" name="minion" x="791" y="1080.5" width="23" height="17.5"/>
+  <object id="18" name="minion" x="820.5" y="1059" width="25.5" height="27"/>
+  <object id="19" name="minion" x="846" y="1037" width="31" height="28"/>
+  <object id="20" name="minion" x="887" y="1028.5" width="20" height="20.5"/>
+  <object id="21" name="minion" x="887" y="953" width="19.5" height="16"/>
+  <object id="22" name="minion" x="846.5" y="933" width="29.5" height="23"/>
+  <object id="23" name="minion" x="815.5" y="915" width="27" height="22.5"/>
+  <object id="24" name="minion" x="787" y="900" width="25.5" height="21.5"/>
+  <object id="27" name="hidden loot" x="343.083" y="796.667" width="38.25" height="45.75" rotation="90"/>
+  <object id="29" name="wasserleck" x="398.333" y="791.667" width="44" height="27.3333"/>
+  <object id="31" name="kaputte wand" x="465.667" y="789" width="23" height="54.3333"/>
+  <object id="32" name="boss + loot" x="454" y="216" width="114" height="61"/>
+  <object id="33" name="guardian green" x="595.5" y="406" width="55.5" height="74.5"/>
+  <object id="35" name="guardian blue" x="348" y="417" width="54" height="68"/>
+  <object id="36" name="minions" x="727.5" y="367.5" width="29" height="221"/>
+  <object id="37" name="minions" x="250" y="366" width="40.5" height="191.5"/>
+ </objectgroup>
+ <objectgroup name="players"/>
+</map>

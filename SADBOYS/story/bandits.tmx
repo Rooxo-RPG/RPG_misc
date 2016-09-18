@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="35" height="29" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="tiles" tilewidth="32" tileheight="32" tilecount="108">
+  <image source="../../../../Pictures/tiles/tiles.png" trans="ffffff" width="288" height="384"/>
+ </tileset>
+ <tileset firstgid="109" name="stickman" tilewidth="32" tileheight="32" tilecount="2">
+  <image source="../../../../Pictures/stickman.png" trans="ffffff" width="32" height="64"/>
+ </tileset>
+ <layer name="background" width="35" height="29">
+  <data encoding="base64" compression="zlib">
+   eJzt0jsKACAMREF7r+X9z2QhglXIz1V0F14bpkgpY/WC5k47aKEFbWlCSIvk8Hi8Fo3D6kFYtJ4fLRoPLe9arJ6dv2vxaG9FLasnciPLkhUttNBCCy3YOqFqRPU=
+  </data>
+ </layer>
+ <layer name="tents" width="35" height="29">
+  <data encoding="base64" compression="zlib">
+   eJztlsEKwjAMhvNWKihUQUEFD+rB6657/wewhRZjSbZ/SSce9kEOLcvyJ026EbXj1fBdXjphb6s8a9WN+vXC3lF5VtKNUPsVbato62wbxfdGci6SbouWsg7R9tkOE/ynwnOpcyjrc7RLtqtBC3r2SC73aI9sT7bPzy6hnQdaL09dA33OjpNmameIIeXivT/STJ1GYiAkHTwPZIbmoqu0BMJmaA7NPX3XFJ2hQJhmD9oM1aCaJVp/31DNEt47MlF6xNsfU7RoMQON9wdS/3rmax++1mKWHrF8F4YY8kFialjuOevduPA7/v1/ugWWHHnvtqyRN8eWNfLO5zLfC2/o+iiC
+  </data>
+ </layer>
+ <layer name="trees" width="35" height="29">
+  <data encoding="base64" compression="zlib">
+   eJzVVtEKwjAM7F+pOEWFKSps+uarr/7/BxjBQMmW9JJuiAf3sJmmOXtpltIQDXE78t6K64g98Ua8F3K0xCPxBOzRfXPyfpssb/6cx2k55HpZtwdSg0cTQ8ZzfUzrDKT2XENEk4xnPUxLV0S7B55aoueJgD3dZxzbB+0fD1bi2fI7Etek8X5AcHDGl9Amn4fOxMuX1+Ce2hl1aToP9WCcdcf9EtG+XoNxpT6x7rgSFsRlGvaNhlI/1dxxO+I+YX2DnH+NP7l3kL6JaJ7LvxHNc88lD6aeS94ZM8dMYqCziGvQ7rvaGj3eG6s59wuq6aG8z3OhdWnf09p6bW+JPBfaE5p+bf0TrEWr6wNUj7ae8XLm+cdeisRrdcv/vVafdY78W833q8cnli8jnq2B5UuvZxG8AcG+QyE=
+  </data>
+ </layer>
+ <layer name="more trees" width="35" height="29">
+  <data encoding="base64" compression="zlib">
+   eJztlEkOAjEMBPMu1gNiOQHzBK78/wFgRYjICm5vQUhMnR23p+2eUmZm/pOF4805fYrKblBfibWxXvJrExnkycFY/8kv6nMMznIJvided3JN6PXL9G5i+fUpKpYMebIfQdLLzv6q1GxTJrdJem1PC/vyzuQJ1Gp30va0QJmkbFMmJ6Cp9ajtaeXu1JS4JfTgeHfPvy9D27v7DLh2b/fIK6+XnJ423z3yaqSXfPcoJ5EcaeC+o5xEcoR2zH3v5aTtgXIk6aEda3y33IlUq9FC32q5k9E3RYz433rh3j0AFyQkbw==
+  </data>
+ </layer>
+ <layer name="players" width="35" height="29" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt0csJACEMANH0ZU2xZkvZDRg/OYvxMA9EBcFBRQBgV7IDuirS9B++18QWYz1lrofsrpV33Wha3yPep/u5q+J9tveeF/6qhhkAAOCEDzoAC+Y=
+  </data>
+ </layer>
+</map>

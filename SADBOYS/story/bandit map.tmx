@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="108" height="86" tilewidth="32" tileheight="32" nextobjectid="26">
+ <tileset firstgid="1" name="tiles" tilewidth="32" tileheight="32" tilecount="108">
+  <image source="../../../../Pictures/tiles/tiles.png" trans="ffffff" width="288" height="384"/>
+ </tileset>
+ <layer name="background" width="108" height="86">
+  <data encoding="base64" compression="zlib">
+   eJztmEFuwzAMBH3vB9pj8pb+/029NEAgiF5KEbWkvQssBARoQ3k0sZPjUBRlR77UVEVhz6eKV+WisOdTxatyUdjzqeJVuSjs+VTxqlwU9nyqeFUuCns+VbwqF4U9nypelYvCnk8Vr8pFYc+nilflorDnU8WrclHY86niVbko7PlU8apcFPZ8qnhVLgp7PnWM169R9tx3LYrFa7TsfV6lKKt4iV1dXmK3j9fMe4jZPl4R7yl2tXh52YlhPl7it5bXT3DFbi2vZ3A93Dzs2NcxC6/v/+u5en0cfW4rnLsyR5TXdY1eI5zLzm5mNpQovzzeeZ2b5beD5+r3RtnlF/LOy2wFN0ar+uXx7WrcRnxFYfvV822EWfTnWNRn6uu8vvcJWB0H36/39RPXKtRi9L5nFLZPvfVK3BCjdv8oGbzyfn9jX/tRLmceWftGyeDTyH0tEzfkzplH1orC9mj0vsbmhhh9ul8Utjez97Xd3FpOs/7cwS+vbxHsLE5R+0PJ4M0q31Y6Z3GK3hdKBl+inidHvLOe76J9upNfM96hRt2X5Necd6jseVEy+KBVflVdUdjn6Y6r9Wzj4cU+T3dZ21r3T5QM5+1Kq5eP9b0ChX3urrD2GHn5jPJin8eKq8eh2d9VUNA5yXB+M60rHFrBy5qjfT3D+WZ6tJrPKC9rjkfzWsuOfc533o+iGY3w8szRsruqbxanaEYjvEb+l8WN7cPq+xODUwSvK/rWc4rBKZLXGTe2H7PPe0yndvHqcXvtn+3NiE8ZOO3kdcaN7U92n5i8WmZs35jP5VV4ZfCtikvZeO3yrfc7RDVOWXghbiPeWVx6n3fVOGXjZXHrsUNt/74yn+y8PPxQ2TPfmZcqXpWLwp5PFa/KRWHPp4pX5aKw51Mxrz/yDVcw
+  </data>
+ </layer>
+ <layer name="locations" width="108" height="86">
+  <data encoding="base64" compression="zlib">
+   eJzt2LtOAzEQQFEXAUQDaRF/QCoE4tEBHdAB//8t2NKOMpgQNvuasX2PNBKiMrkZZ0kIAAAAAAAAmMN9nIc4j9YHQS9PcZ7jvBifA/28xnmL8259EPTyEeczzpf1QQAAAAAAAAAAAAAAAAAAwF7nM826m5vl/hSMdN0N3cqTusne0a4s7FyZpBvtypPa0awsLd6TZ9YHmEDtu3Ybts9e+f9Apapt13SjO+OzzKnkbq002sXzHZm6rNW02ijnadda3p1DWXWj0ThLdZP7jkbTmOt7EtknOs1nip2j0/L0zv3XT/rI0Mle3k8PfQAAAAAcYhXnKs6mG/kZPkgf6XJsexxk6OOfvuPo44+XHbroBr9Jo6Ngu0PpHJsdc2p4Jg9W4eceWd9z0uWvc5yENrulNtLJutEQl6GdbiV3yuluNbZLrWrolEv3ZHoP1tKspp3ap/RurXTKpW4lNWu1kya75nXfPD2Xe+Np39ilfqw/2+g0zFLd9PetdBpPusnrObSf/hzy8H1rK/TziX7d89/RBQAAANj6Bu8MIAc=
+  </data>
+ </layer>
+ <layer name="trees" width="108" height="86">
+  <data encoding="base64" compression="zlib">
+   eJzt2kmO2zAURVEvJKlZKrOklpNppt7/AspDg2DzfkdJ9j2AgGpIfnaSSEm3G4B39+/kcXbV7yr+nzzOKN9sHF95jO9PP3vaqea5D/7e5m9/H+Wbjf+uOZht1Rettp3KWHjyzPKrfT0ax97/dpxvGXPd2hdtO5W+8/b3KOZsHJT43jSK2Zh4YrR5on3RS7+6XlljRCn9lFWnWSwlhnqtt8qeR5U86xEvtX9Hsav6LjqPekZtiParZT1ijeWt26j/qq49FeWO2pAx53r92muDNdYq/Wg8j1jvtHaeB9b4GWtKT3o1bsa53uPpk6xxtO41emVU864XMs71Hk+fRPdfSuxZ/J0y1wsZ7fGU4dmzZcWuVrX+XsXZydomta69dNXtPOrZ6hFtVan34l469Vrsbatl7kX6U7lGRe47mWOt3ouVdJV7hhXv2r+n19bVmGY94/CMrXd9PjofdtwbV+85sp9hWtYNlvZ76nnGtYeFen3InMtZfZbd97ueKUXKVNu8unerz21mZWSm9ch+prSjDiOre3L2O3lv2sy1VHb6o8rsle2NY8mnpI3Mz7O9z7ki6/kS2deo34GM/lZNiXn03rdyzkeegUfq9eNx/Hw6PgL18KSxiu7vomXOylbXTZH7zK/H8fl0/BbzKTEj78cq3l17y1TrveMe5h0vj4z1XGRuesuseu/o8edx/H06vgpjZa/nrF7pnco7qOj3d/3++qrU768Zu3NQv79mP30t3AMBZPE+h9mtrefZ61tl574+oq3n2etbhfG6lp3PYSIYr2tp59XZ5xcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwzr4B1gVqUA==
+  </data>
+ </layer>
+ <layer name="treetops" width="108" height="86">
+  <data encoding="base64" compression="zlib">
+   eJztmuFu1TAMhftWMLShC4xNMOmCgPd/FjJpFZGx62Mnbgs7n5Q/W5zYTmInvl0WQshr5nNrD609tnbb2l1r7wPyWzK33d/7eVD5rJwlM5N+/t5Orc/dgvkV8f+1tW+tfV/+tlOTl7ptyVxfxpXzLKB8RM6yybIDAd0TvZ1an4cF23OI/3uknZpPpG6IzBZZeWsdNbLnbXRPeOslx5/tS0svTybClrx13iMxZESXaAxe5dcm5/f0QvWelRu24no0NllzX1/+Jm3KxsDo/L0eq2+tuWfotHWOkTiwhRXX+79HbNg67zKnazZE/eXlUmvfWf4bjT3W2DPGlbZavsreG6W8zBGaDdF84PXf2o8z7jvWnKMxUkPaGt1z6F3Jy+nIXNn+0T2FnPWInzN5y5KRto76yltvK6fPxLt/W0TOeiQGZPLWrLepFz8jcWDmHaPHu39HsGSj94No3J0Vq9H46SFzykjuiO6Z7F6Zld8yPrNitaeLFz+zb6+R8595r8q9gqwBWleqeGdqMqsdWT2e0XyH2FkRszSsuTNxLWur1Me7m3sgeljjW/sAuZNUvJ29OqrWf+Sd6dmqxe5MXUvWfz09ouP3VN+J5FyWHWgNIpPv+rHRWuNoXa26Blk9ngdag0DjpTe2NX50DGucPX6fWqmKhTP2W0Y3ZOyIfpX1ckQXScXemDWmF3tm3hNm9NV01P6H5AFLviIWRu+NkXPY2zc7j2f7Ruo63u+jUr6yvpEhmqN6+456n3vrI+PpyDsxk8M13rT2Vmk3jhyi76ycmrXVO7eRupvUAY0JyFs84qdLax+U9tGRQ/TV3k5oPR49E1v9I79rz7gPoe+bkZrkl9a+Ku0poa/XJ1IHsfoh39pYRH+b9ORQ3by3eCQP/2jtp9J+AbI9yNnR4kDkHD0zcq/Kvukqvo06GmSPa/li1EcrmVo7ylnX4V3x+LPv37L/2fxZUcPo+VQ07v9M9hu76rUkOtlv//asVZI/oHF75jcWpJ7Xtj7ZOszeWHqeVd8qLkuuDrM3l0XX86z6VpGtw+yNpedZ9a1iVh2mGkvPs+pLiKS6DkPm8q/VYbz9dd81cjz9/rp3GjkH3jpxveqI+plrtT8Zn3OdjgX1P9fmeLgmhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQcw28AH0Ia
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1">
+  <object id="18" name="bandits" x="1201" y="317.5">
+   <polyline points="0,0 129.5,-3"/>
+  </object>
+  <object id="20" name="first town " x="2845.33" y="1156">
+   <polyline points="0,0 192.667,-0.666667"/>
+  </object>
+  <object id="21" name="second town(burning)" x="1480" y="1142">
+   <polyline points="0,0 144,-3"/>
+  </object>
+  <object id="22" name="third town" x="164" y="801">
+   <polyline points="0,0 125,0"/>
+  </object>
+  <object id="25" name="to bigger city" x="3164.5" y="1341">
+   <polyline points="0,0 105.5,-42.5 48,-44 75,-7.5 106.5,-43.5"/>
+  </object>
+ </objectgroup>
+</map>
