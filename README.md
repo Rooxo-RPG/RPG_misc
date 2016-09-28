@@ -9,6 +9,7 @@ Everything I made for tabletop games and worlds I built
 * SAO: one floor(based on floor 35 in the anime) of SAO in GURPS lite
 * bioshock: detective mistery in rapture from bioshock
 * post-apocalypse: a post-apocalyptic setting(no plot)
+* Systems: my notes on different systems I've read
 
 ##Sources
 
