@@ -1,3 +1,3 @@
 #Worldname
 
-* world consisting of mostly ocean, with few floating continents
+* very small world, roughly 500km across

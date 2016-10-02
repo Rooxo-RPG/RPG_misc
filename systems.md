@@ -23,16 +23,23 @@
 * best for improvised quick games
 * uses d6
 
-##All outta bubblegum
-* general system
-* uses d20
-* bubblegum/different tokens needed
-* best played when drunk/getting drunk
-* only 1 page of rules
-* no combat system
-
 ##Fear Itself
 * horror setting
 * focused on mistery solving
 * light combay system
 * uses d6
+
+##Microsystems
+
+###I roll to see if I have shoes on
+* uses d6
+* start with "do anything skill" get anything
+
+###All outta bubblegum
+* uses d20
+* bubblegum/other tokens needed (preferably edible)
+
+###Tearable RPG
+* uses only paper
+* gameplay consists solely of ripping paper
+* game ends pretty fast, after all paper has been ripped apart
