@@ -13,6 +13,14 @@ Everything I made for tabletop games and worlds I built
 
 ##Sources
 
-for the post-apocalypse map I used [these](http://captscott.deviantart.com/art/Fantasy-Brush-Pack-01-191047320) brushes.
+####Map Brushes
 
-I'm most likely going to use [this](http://starraven.deviantart.com/art/Sketchy-Cartography-Brushes-198264358) brush pack as well.
+* [Fantasy Brushes by Capt Scott](http://captscott.deviantart.com/art/Fantasy-Brush-Pack-01-191047320) 
+* [Sketchy Cartography Brushes by StarRaven](http://starraven.deviantart.com/art/Sketchy-Cartography-Brushes-198264358) 
+
+####Fonts
+* [Pia Frauss' Fonts](http://www.pia-frauss.de/fonts/)
+
+####Name Generators
+* [Names for almost everything](http://fantasynamegenerators.com/)
+
