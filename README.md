@@ -10,6 +10,7 @@ Everything I made for tabletop games and worlds I built
 * bioshock: detective mistery in rapture from bioshock
 * post-apocalypse: a post-apocalyptic setting(no plot)
 * Systems: my notes on different systems I've read
+* unused: stuff I might want to use later
 
 ##Sources
 
