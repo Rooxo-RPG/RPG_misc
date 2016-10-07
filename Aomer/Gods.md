@@ -1,16 +1,12 @@
 #Gods
 
-* imprisoned in the planet 
-* 4, maybe 5  of them
-* each one has different abilities like gravity/temperature
-* each of them wants to escape
-* in order to escape they need their followers to perform a ritual at The Divine Citadel
-* the ritual will unleash the power of one god, destroying the other ones as well as the planet
-* they give their followers access to their powers in exchange for loyalty and help in escape
-* the followers do not know about the destruction of the world when they unleash their god
+The Gods of Aomer are supernatural beings, imprisoned inside the planet by their peers. There are four of them, each one fighting against the others to gain enough followers, who can help them escape from the planet. What the followers don't know though, is that not only will they free their god, by performing the ritual their god wants them to perform, they will also destroy the other gods along with the planet they are living on. For their loyalty the gods grant their followers magical powers, taught to them by special Chosen Ones the gods personally talk to. 
+
+##Omoi
+
+Omoi, the god of gravity. His power keeps the planet together, keeping it from falling apart
 * one god has gravity based powers, granting it's followers telekinetic powers
 * another one is temperature based, granting it's followers ice and fire powers
 * followers of the temperature based god can eiher learn fire or ice powers, masters could use both
-* the third one is light based, granting it's followers abilities related to electromagnetic waves
 * the fourth one has alchemical powers, granting it's followers powers of transmutation 
 * the fifth one has life powers, granting it's followers magic to control living creatures
