@@ -8,7 +8,6 @@ Gero have very short necks, which are almost as wide as their mouths, leading in
 
 ##additional notes(WIP)
 
-* tail, that starts with the width of their hips and gets thin towards the end, looks like a triangle
 * live in swamps in giant mushrooms
 *  eat giant flies living in their swamp
 * can eat other things like meat, but only to survive

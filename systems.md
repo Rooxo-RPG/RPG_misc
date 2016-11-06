@@ -36,6 +36,11 @@
 
 ##Microsystems
 
+###The witch is dead 
+* uses d10
+* players are animals trained by a witch
+* story already set 
+
 ###I roll to see if I have shoes on
 * uses d6
 * start with "do anything skill" get anything
