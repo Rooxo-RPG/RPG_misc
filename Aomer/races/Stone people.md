@@ -9,4 +9,4 @@
 * seldomly need water
 * when they do they migrate to a water source, and fill up their bodies for multiple days
 * after that they can survive for half a year without refilling
-* later migrated to eastern mountains
+* different versions on both mountain raiges

@@ -29,6 +29,11 @@
 * light combay system
 * uses d6
 
+##Microscope
+* no characters
+* no dice
+* create a history
+
 ##Microsystems
 
 ###I roll to see if I have shoes on
