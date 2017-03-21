@@ -24,6 +24,9 @@ This, along with the length and flexibility of their legs, making up almost half
 Lastly, Gero have a tail, that starts as wide as their hips and thins to a point at the end. 
 These tails are a bit longer than their feet, dragging behind them and only between 10 and 20 centimeters thick. 
 The Gero use their tails to navigate under water, as they waggle it to gain speed or turn it  to change direction. 
+Young Gero are born from eggs that are laid unfertilized by the females, which are then fertilized by the males.
+They then come out of the eggs as tadpoles underwater that then grow into full-grown Gero over around 10 weeks and then leave the water.
+Their lifespan rarely exceeds ten years with the average being 7 years.
 
 ##additional notes(WIP)
 

@@ -12,6 +12,8 @@ The whole body is covered in a few centimeter long fur, in grey, black, white an
 Each Raul has a unique fur pattern, allowing them to distinguish one another.
 They also have a tail, which is used for balancing their body.
 It is just short enough so it doesn't touch the floor when walking or running.
+Child Raul are born after a female is pregnant for half a year, and then need another 5 years to reach maturity.
+After that they live something between 30 and 50 years.
 
 * live all around the northern part of the main island
 * one of the last races to emerge
