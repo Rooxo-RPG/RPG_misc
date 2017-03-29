@@ -1,6 +1,6 @@
-#The world
+# The world
 
-##Aminor
+## Aminor
 The continent Aminor is made up of five countries, the Khalinor desert, the
 Greenlands, the Icelands of Malin Kharr, the Mountains of Ghamor and the
 rocky Draken Islands. The different countries are all seperated by the Amin
@@ -15,7 +15,7 @@ halflings and dragonborn also live here, but they mostly live among the humans
 and sometimes on their own, away from civilisation.
 
 
-##Khalinor
+## Khalinor
 In the South East of Aminor there is the vast desert wasteland known as Khali-
 nor. Only few people live there and those who do mostly only live at the rims
 of the country and the only oasis in the desert Timi’in Ged, where there are
@@ -43,14 +43,14 @@ biggest trade outpost on the continent and Kaa’nugar, the only city in Aminor
 where most of the population are Dragonborn, because when they fleed from
 the slavery of the dragons the city took them all in.
 
-###Garra’bor and Karra’bor
+### Garra’bor and Karra’bor
 The towns Karra’bor and Garra’bor are located in the North-East of Khalinor.
 A long time ago only Garra’bor existed, but after a civil war part of the popula-
 tion moved from the Garra’bor island to the mainland and founded Karra’bor.
 For a long time the two towns were in deep hatred towards each other, but
 nowadays they are friendly again and are even trading partners
 
-###Maviara Bay
+### Maviara Bay
 In the North of Khalimor there is a big bay named Maviara Bay after the two
 cities contained in it, Mavior and Aradar. A long time ago this bay had the
 biggest harbours of Aminor and a flourishing economy. But one day a war
@@ -66,7 +66,7 @@ the death of many unsuspecting wanderers. But this isn’t the only danger of
 the Valley of Death. Various creatures live here and whoever is unlucky enough
 to meet any of them has most likely finished his life.
 
-##Mountains of Ghamor
+## Mountains of Ghamor
 These mountains are inhibited by the race of the dwarves, who mostly keep to
 themselves and only allow non-dwarves to live among them if they earned the
 respect of the clan. Some of the dwarves leave the mountains though, those
@@ -89,7 +89,7 @@ and even other races, still plan to attack Bronzeforge again and have their own
 trading route for foreign goods, somewhere unknown in the far North of Ghamor,
 where they trade with the smugglers of Tulruk.
 
-##Draken Islands
+## Draken Islands
 The islands in the North-West of Aminor are called the Draken Islands. The
 only creatures, that live here are dragons, wyverns and similar animals. Many
 mountains here seem to be volcanoes, but not much research has been done, so
@@ -100,7 +100,7 @@ come and live here. But the islands are still very dangerous and not all of the
 daring people coming here return to their homes.
 
 
-##Icelands of Malin Karr
+## Icelands of Malin Karr
 In the far North of Aminor, there are the Icelans of Malin Karr. Here lives even
 less than on the Draken Islands. No animals or plants can survive in this place.
 There was once a wizard named Malin Karr, that had enough power to survive
@@ -110,7 +110,7 @@ known as the Great war, after which huge portions of the population of Aminor
 were killed. Legend says ruins of his work can still be found in the Icelands.
 
 
-##Greenlands
+## Greenlands
 The biggest and most populated country in Aminor are the Greenlands,in the
 South-West of Aminor, most of which is covered by the Fey forest. In the
 North East of the Greenlands there is the Ballick valley and in the South East

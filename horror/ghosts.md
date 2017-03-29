@@ -1,4 +1,4 @@
-#Ghosts
+# Ghosts
 These are all the ghosts of the people that died in the cabin and are still bound to the demon
 
 1. the woman that hanged herself  

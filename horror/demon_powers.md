@@ -1,4 +1,4 @@
-#Powers
+# Powers
 The powers the demon can use at any point in order to bring the players to summon it into the world
 the demon's powers can only be used in its power radius which is the cabin +about 25m 
 

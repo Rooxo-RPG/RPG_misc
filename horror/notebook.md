@@ -1,4 +1,4 @@
-#The Notebook (Deciphered)
+# The Notebook (Deciphered)
 
 This text is in the acolytes notebook, it can only be read after it has been deciphered
 

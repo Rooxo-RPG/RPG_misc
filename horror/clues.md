@@ -1,4 +1,4 @@
-#Clues
+# Clues
 
 These are all the clues the players can find in the cabin
 

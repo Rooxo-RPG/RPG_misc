@@ -1,4 +1,4 @@
-#The Sory on the Wall
+# The Sory on the Wall
 This story is the story of the demon stuck in the cabin, written as rules on the wall
 
 The Nameless One once ruled over the entire world, heaven and hell. He was all powerful, not even God himself could stop him.

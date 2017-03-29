@@ -1,4 +1,4 @@
-#Story
+# Story
 
 The PCs are asked by Ann Bernard to investigate the murder of her husband Vincent Bernard.
 The wife only knows he works for Atlas.

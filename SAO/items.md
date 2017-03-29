@@ -1,51 +1,51 @@
-#Items
+# Items
 
-##bunny meat
+## bunny meat
 * use: eat, restores 2 HP
 * sell: 4 gold
 
-##tusk
+## tusk
 * sell: 3 gold
 
-##boar meat
+## boar meat
 * use: eat, restores 5 HP
 * sell: 5 gold
 
-##fur
+## fur
 * sell: 6 gold
 
-##claws
+## claws
 * sell: 7 gold
 
-##fangs
+## fangs
 * sell: 7 gold
 
-##horseshoe
+## horseshoe
 * sell: 5 gold
 
-##coat of midnight
+## coat of midnight
 * gives stealth +3, shadowing +2 when worn
 * sell: 200 gold
 
-##hat of charisma+10
+## hat of charisma+10
 * always win diplomacy/intimidation/etc. checks (gm rule)
 * influence other players
 * cannot be sold
 
-##fishing rod
+## fishing rod
 * buy: 100g
 * use: (at water) roll for fish caught
 * sell: 30 gold
 
-##fish
+## fish
 * carp: 70%
 * use: restores 4 HP
 * sell: 3 gold
 
-##tuna 29%
+## tuna 29%
 * use: restores 6HP
 * sell: 5 gold
 
-##easter egg:
+## easter egg:
 * give to farmer npc get dragon
 * cannot be sold

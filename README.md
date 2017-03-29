@@ -1,8 +1,8 @@
-#RPGs and worldbuilding
+# RPGs and worldbuilding
 
 Everything I made for tabletop games and worlds I built
 
-##Content 
+## Content 
 
 * SADBOYS: a DnD 4e campaign about a group of bandits called the S A D B O Y S
 * The Party: a random fantasy party for a oneshot that never happened
@@ -12,15 +12,15 @@ Everything I made for tabletop games and worlds I built
 * Systems: my notes on different systems I've read
 * unused: stuff I might want to use later
 
-##Sources
+## Sources
 
-####Map Brushes
+#### Map Brushes
 
 * [Fantasy Brushes by Capt Scott](http://captscott.deviantart.com/art/Fantasy-Brush-Pack-01-191047320) 
 * [Sketchy Cartography Brushes by StarRaven](http://starraven.deviantart.com/art/Sketchy-Cartography-Brushes-198264358) 
 
-####Fonts
+#### Fonts
 * [Pia Frauss' Fonts](http://www.pia-frauss.de/fonts/)
 
-####Name Generators
+#### Name Generators
 * [Names for almost everything](http://fantasynamegenerators.com/)

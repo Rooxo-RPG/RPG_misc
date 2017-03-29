@@ -1,6 +1,6 @@
-#Drubo
+# Drubo
 
-##Physique
+## Physique
 Drubo look like ordinary tree from the outside, but use their roots in much the same way other species use their brain.
 They connect to other Drubo using them and can communicate that way.
 They can also move most of their branches and, depending on the width, even more their trunks.

@@ -1,4 +1,4 @@
-#I try to walk
+# I try to walk
 
 Based on [I roll to see if I have shoes on](http://story-games.com/forums/discussion/11348/microdungeons-i-roll-to-see-if-i-have-shoes-on).
 

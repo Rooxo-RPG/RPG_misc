@@ -1,6 +1,6 @@
-#Raul
+# Raul
 
-##Physique
+## Physique
 
 Full-grown Raul range from anything between 2 and 3 meters in height and weight around 200-300kg.
 Their head has a shape very similar to wolves, with bigger teethand an even stronger jaw.

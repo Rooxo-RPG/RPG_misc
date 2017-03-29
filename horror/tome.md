@@ -1,12 +1,12 @@
-#The Tome
+# The Tome
 This is what the players can read from the tome:
 
-##How to summon the Nameless One:
+## How to summon the Nameless One:
 speak those words and give the Nameless One a offering of your blood: Batrch ishihr xochqeul Salezhor
 Once you did that you opened a small door through which He can give you instructions
 Do what he tells you and he wil raise once again
 
-##How to banish the Nameless One
+## How to banish the Nameless One
 The Nameless One is one of the oldest and most powerful demons that have ever managed to enter our world.
 Only with the help of other demons, possibly even more powerful, could we find a way that might banish him from the world.
 We don't know if we can manage to finish this ritual, so this is for anyone who finds this if we fail, if it still exists.

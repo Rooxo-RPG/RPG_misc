@@ -1,4 +1,4 @@
-#Stone people
+# Stone people
 
 * live in the mountain range in the center 
 * have bodies surrounded by rock

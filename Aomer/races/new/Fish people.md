@@ -1,4 +1,4 @@
-#Fish people
+# Fish people
 
 * live in the shallow sea water in the north west 
 * sometimes swim very far out in the ocean, but prefer the more shallow waters, where they can walk the ground(water pressure)

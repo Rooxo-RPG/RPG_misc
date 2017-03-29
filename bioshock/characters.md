@@ -1,32 +1,32 @@
-#Characters
+# Characters
 
-##Jonas: John C(ena)
+## Jonas: John C(ena)
 
-####Skills:
+#### Skills:
 * Aikido(4),
 * Street Cred(3)
 * Badass Detective(3)
 * Weeb(1)
 
-####Disadvantages 
+#### Disadvantages 
 * bad puns(1)
 
-##Sarah: Tannenbaum
+## Sarah: Tannenbaum
 
-####Skills
+#### Skills
 * Swimming(2)
 * Diplomacy(3)
 * Agility(2)
 * Dual Pistols(4)
 * Trumpet(1)
 
-####Disadvantages
+#### Disadvantages
 * Adam Addict(1)
 * Weak(1)
 
-##Julia: Barbapappa
+## Julia: Barbapappa
 
-####Skills
+#### Skills
 * Big-Daddy suit(4)
 * Little sister(2)
 * Plasmids
@@ -34,7 +34,7 @@
 	* Telekinesis(2)
 	* Elektrobolt(2)
 
-####Disadvantages
+#### Disadvantages
 * Adam Addict(1)
 * Bad Hearing(1)
 * Aggressive(1)

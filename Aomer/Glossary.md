@@ -1,4 +1,4 @@
-#Glossary
+# Glossary
 
 * Aine - The god of transmutation
 * Aomer - The planet

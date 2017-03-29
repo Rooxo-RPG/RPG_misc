@@ -1,4 +1,4 @@
-#The Party
+# The Party
 
 
 The party consists of 5 people, the half-human, half-dragonborn wizard Faye
@@ -6,7 +6,7 @@ Grimmsy, the dwarfen fighter Gramthrun Hammerforge and his best friend the
 cleric Sylvarus Aldion and the tiefling sisters Eaki the rogue and Yatari the
 warlock.
 
-##Faye Grimmsy
+## Faye Grimmsy
 
 Faye, the leader of the party, is half-human and half-dragonborn and was raised
 by human family named Grimmsy. She doesn’t know her real origins, but she is
@@ -18,7 +18,7 @@ Later she met Gramthrun and Sylvarus, who also joined them, because they
 simply liked them and liked adventures.
 
 
-##Gramthrun Hammerforge and Sylvarus Aldion
+## Gramthrun Hammerforge and Sylvarus Aldion
 The dwarf Gramthrun Hammerforge grew up in the city of Orvon, where Syl-
 varus, an elf that lived in the Fey also spent a lot of time. There they became
 best friends as children and later started traveling together looking for adven-
@@ -31,7 +31,7 @@ Faye’s party, because Faye looked for help in recovering an magical artifact a
 then stayed in the party, because they liked them and felt like the party needed
 them(and they needed the party)
 
-##Eaki and Yatari
+## Eaki and Yatari
 The tiefling sisters Eaki and Yatari grew up as orphans in the poor parts of
 the city Blackwater. They were all alone, so they had to survive any way they
 could. Eaki, the younger sister learned skills like pickocketing and lockpicking

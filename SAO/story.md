@@ -1,4 +1,4 @@
-#Story
+# Story
 the party sarted at floor 35, looking for quests, they found 2  
 both were prety simple, killing a few mobs  
 first they go into a bar where the blind player hits on the ugliest woman in the bar and can barely leave without her  

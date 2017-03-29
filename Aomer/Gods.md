@@ -1,26 +1,26 @@
-#Gods
+# Gods
 
 The Gods of Aomer are supernatural beings, imprisoned inside the planet by their peers. All four of them have powers that influence the planet to an extent where life could start and stay on Aomer. Though working together to bring life to the planet, each one is fighting against the others to gain enough followers, who can help them escape from the planet. What the followers don't know though, is that not only will they free their god, by performing the ritual their god wants them to perform, they will also destroy the other gods along with the planet they are living on.   
 The gods can only communicate with few chosen ones, who are open to the word of the god, and to the people they share their power with. Through these people a god is also able to observe the world by seeing through their eyes.
 A god can also watch the world through the eyes of non-sentient animals and even control them, but they can't share their powers with them.
 The people the gods decide to share powers with are the most loyal followers they deemed worthy.These are also the people that have to perform the final ritual that will kill them all. After the god has shared its power the connection can't be broken, and the power can't be taken back. So traitors will still have access to magic, while gods can still see the world through their eyes. These traitors don't get away	without a punishment though. Each god can bring powerful curses on those that have opened up to them.  
 
-##Omoi
+## Omoi
 
 Omoi, the god of gravity, does not care for his followers any more than he needs to get them to help him out. He will only seldomly give out powers to anybody and has very little regard for any life on Aomer. He will command wars and genocides and will crush those that disobey him, as every living being is just a tool to escape this world and worth nothing if it doesn't contribute to his goals. As a result of all this, Omoi has the least followers of the four gods. But those that are drawn to him are very violent and push the hardest to perform the freeing ritual. So very often the other gods' followers will band together to stop Omoi from being freed, although even after all Omoi's followers have been killed, he always finds new people that serve him. He can grant his followers the power to move matter and exert pressure on it. Depending on how loyal Omoi decides someone was, he can give them varying strengths of the power or increase it when someone has proven themselves. 
 
-##Suhu
+## Suhu
 
 Suhu, the god of temperature, is a lot more considerate towards life than Omoi is, but she has an explosive temper, and will often curse her followers if they make mistakes. She will lift those curses once she has calmed down, but it is common knowledge among her followers that it's a bad idea to anger her. On the other hand, people that prove her loyalty to her, will get rewarded with powerful magic, either ice powers, fire powers or even both for followers that proved themselves to her. Her approach for other peoples followers vary the same way her mood shifts. Sometimes she will try and convince them to join her and other times she will send her followers to smite them. But she isn't unreasonable, if there is an immediate threat from one god and their followers, she will join forces with other gods to stop them and keep her word.
 
-##Zaas
+## Zaas
 
 Zaas, the god of time, cares for his followers, but is cruel towards anyone that opposes him, especially those that have  betrayed him. He will curse those very harshly and won't forgive those he holds grudges against. He sees little value in life, as any effort to prolong it is a wasted effort, as it will end almost instantly anyway. So any connection he has to the people of Aomer is based more on pity for their fleeting lifes. He is in no hurry to leave the planet, he mostly only makes sure the other gods can't escape before him. He will give his followers access to powers really fast, though, because he feels like if he doesn't they die before he gets to reward them. 
 
-##Aine
+## Aine
 
 Aine, the god of transmutation, is very different from the other gods. She sees life as the ultimate form of transmutation and doesn't want to see life on the planet destroyed. That's why she doesn't want the ritual to ever be performed and tells her followers the truth about the ritual. She will often show mercy even to those that betrayed her giving them multiple chances, but after her patiance is over, she will harshly punish them. She grants powers to most of her followers once they do something for her, trusting them easily. Her power allow her followers to transmute different materials.
 
-##The Ritual
+## The Ritual
 
 At the Citadel of Gods, the place where Aomer's crust is thinnest and the gods are closest to the surface, the gods have a chance to break out. In order to do that, their 12 most powerful followers have to come together there and perform a ritual using their powers for multiple days without being interrupted. If the ritual is completed the planet will be destroyed and only the god, whose followers performed the ritual, will survive and escape. Only Aine tells her followers about that, though. The other gods have varying stories, about how the other gods would destroy everyone that didn't obey them if they are released, in order to get them to stop other people from doing the ritual. Although the gods would never admit it no one knows if that ritual would actually work. They trust that if there is a way to escape that's their only chance, so they put everything in it. Who knows what would happen, if the ritual ever was completed successfully and didn't work.

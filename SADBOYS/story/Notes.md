@@ -1,4 +1,4 @@
-#Notes
+# Notes
 in the town people have problems with bandits lurking in the woods near the town.
 They ask the party to get rid of them
 

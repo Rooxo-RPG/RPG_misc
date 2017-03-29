@@ -1,6 +1,6 @@
-#The Gero
+# The Gero
 
-##Physique
+## Physique
 
 An average Gero is between 1.2 and 1.4 meters high when standing up, with some even reaching up to 1.5 meters.
 They weight about 60 kg but some may be as light as 30 kg or as heavy as 90kg. 
@@ -28,7 +28,7 @@ Young Gero are born from eggs that are laid unfertilized by the females, which a
 They then come out of the eggs as tadpoles underwater that then grow into full-grown Gero over around 10 weeks and then leave the water.
 Their lifespan rarely exceeds ten years with the average being 7 years.
 
-##additional notes(WIP)
+## additional notes(WIP)
 
 * live in swamps in giant mushrooms
 *  eat giant flies living in their swamp

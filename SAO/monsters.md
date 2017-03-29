@@ -1,8 +1,8 @@
-#Monsters
+# Monsters
 
-##Outside
+## Outside
 
-###viscious rabbit:
+### viscious rabbit:
 * STR: 7 HP: 9
 * DX: 12 WILL: 7
 * IQ: 7 PER: 7
@@ -15,7 +15,7 @@
 * loot: bunny meat x1
 * misc: spawn in groups of 10 run away when approached
 
-###mad boar:
+### mad boar:
 * STR: 14 HP: 14
 * DX: 11 WILL: 7
 * IQ: 7 PER: 7
@@ -28,7 +28,7 @@
 * loot: tusk x1, boar meat x2
 * misc: spawn in groups of 3-5
 
-###wild Wolf:
+### wild Wolf:
 * STR: 15 HP: 15
 * DX: 14 WILL: 10
 * IQ: 10 PER: 10
@@ -42,7 +42,7 @@
 * loot: fur x1, claws x3
 * misc: spawn in groups 5-10, sometimes with dire wolf
 
-###brutal Dire Wolf:
+### brutal Dire Wolf:
 * STR: 17 HP: 17
 * DX: 15 WILL:12
 * IQ: 12 PER: 12
@@ -57,7 +57,7 @@
 * loot: fur x1, claws x4, fangs x2
 * misc: spawn in big groups of wolfs, 1 at a time
 
-###Horse:
+### Horse:
 * STR: 14 HP:15
 * DX: 8 WILL: 9
 * IQ: 9 PER: 9
@@ -71,7 +71,7 @@
 	can be tamed if you have animal empathy and saddle(30 gold) using iq checks  
 	has inventory, if buying additional pack for 50 gold  
 
-###crazy monkey:
+### crazy monkey:
 * STR: 16 HP: 16
 * DX: 16 WILL: 12
 * IQ: 12 PER: 12
@@ -87,7 +87,7 @@
 * loot: spear x1, cloth armor x1, gold x2
 * misc: spawn in caves in groups of 3-8, big groups might have a leader
 
-###drunk ape:
+### drunk ape:
 * STR: 19 HP: 19
 * DX: 17 WILL: 14
 * IQ: 14 PER: 14
@@ -105,9 +105,9 @@
 * loot: maxe x1, leather armor x1, gold x10  
 * misc: spawns in groups of 6 or more goblins
 
-##Maze
+## Maze
 
-###chimpansee
+### Chimpansee
 * STR: 19 HP: 19
 * DX: 17 WILL: 15
 * IQ: 15  PER: 15
@@ -122,7 +122,7 @@
 * loot: mail armor, spear, small shield
 * misc: spawn in groups of 2 or 3 in maze, can ambush players
 
-###orangutan
+### Orangutan
 * STR: 20 
 * HP: 20
 * DX: 18 
@@ -141,7 +141,7 @@
 * loot: light scale armor, broadsword
 * misc: spawn in groups of 2 or 3 in maze, sometimes with chimpansees
 
-###Nokin, Gorilla leader
+### Nokin, Gorilla leader
 * STR: 25 HP: 25
 * DX: 22 WILL: 14
 * IQ: 14 PER: 14
@@ -160,7 +160,7 @@
 	when at 10 hp throws away shield and broadsword, and fights with poleaxe  
 	broadsword and shield can be picked up after thrown  
 
-###Rabbit of Caerbannog
+### Rabbit of Caerbannog
 * STR:22 HP: 25
 * DX:20 WILL: 17
 * IQ: 17 PER: 17
@@ -174,7 +174,7 @@
 summons vicious rabbbit whenever he takes damage
 * loot: golden easter egg
 
-###pet dragon
+### pet dragon
 * STR: 10 HP: 10
 * DX: 10 WILL: 10
 * IQ: 10 PER: 10

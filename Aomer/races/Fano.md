@@ -1,6 +1,6 @@
-#Fano
+# Fano
 
-##Physique
+## Physique
 An average Fano has a height of about 5 meters when standing on two feet, and around half that when walking on four feet, which they normally do. 
 Most of their bodies is an ellipsoid shell, protecting their bodies.
 These have five holes, where their arms, legs and head comes out of.
