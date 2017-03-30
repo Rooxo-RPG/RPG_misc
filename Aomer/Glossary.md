@@ -5,6 +5,7 @@
 * Drubo - Species of sentient trees
 * Fano - Species of giant tortoises
 * Gero - Species of humanoid frogs
+* Kala - Species of humanoids with skin made of stones
 * Mages - magic wielders
 	* purple mages - mages with the power of gravity
 	* orange mages - mages with the power of temperature manipulation
