@@ -12,6 +12,7 @@
 	* green mages - mages with the power of transmutation
 	* grey mages - mages with multiple powers
 	* polymages - grey mages
+* Manuk - Species of humanoid birds
 * Omoi - The god of gravity
 * Orein - Species of deer with humanoid torsos
 * Suhu - The god of temperature
