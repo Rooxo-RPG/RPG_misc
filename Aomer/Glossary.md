@@ -4,7 +4,10 @@
 * Aomer - The planet
 * Drubo - Species of sentient trees
 * Fano - Species of giant tortoises
+* Gando - Species of flying crocodiles
 * Gero - Species of humanoid frogs
+* Ika - Species of intelligent fish
+	* Iko - Subspecies of Ika, able to live on land
 * Kala - Species of humanoids with skin made of stones
 * Mages - magic wielders
 	* purple mages - mages with the power of gravity
