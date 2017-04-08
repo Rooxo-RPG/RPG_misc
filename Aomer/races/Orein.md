@@ -11,6 +11,8 @@ They have long ears they can move in many directions and allow them to hear very
 The males have horns on top of their heads which can be used to fight, although since they have arms they can use to hold actual weapons, those are rarely used for it anymore.
 Instead, they are mostly used to impress other Orein, especially females.
 Young Orein take 2-3 years to mature after a 1 year pregnancy, and live around 40 years.
+They eat animals and plants they find in the woods, anything ranging from funghi to whatever animal is smaller than them.
+Because of their diverse diet, their bodies can survive many things they ingest that are poisonous to them.
 
 - living in forest with sentient trees
 - can communicate with them (how?)

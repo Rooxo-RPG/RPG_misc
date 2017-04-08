@@ -27,6 +27,9 @@ The Gero use their tails to navigate under water, as they waggle it to gain spee
 Young Gero are born from eggs that are laid unfertilized by the females, which are then fertilized by the males.
 They then come out of the eggs as tadpoles underwater that then grow into full-grown Gero over around 10 weeks and then leave the water.
 Their lifespan rarely exceeds ten years with the average being 7 years.
+Gero eat all sorts of insects they catch using their tongues. 
+Since most insects are very small, they have to spend most of the day catching as many as possible to get enought nutrients.
+There are some insect species that grow big enough that they can serve as an entire meal that lasts for most of the day, which is how most Gero choose their preferred habitat.
 
 ## additional notes(WIP)
 

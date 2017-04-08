@@ -13,6 +13,8 @@ Each one is up to a meter long and can also be used to walk on the ground of wha
 The faces in front of the head consist of a mouth, containing baleens and eyes on each side, making them unable to see perfectly straight, but mostly to the sides, which is why Ika don't tend to swim straight forward but in curves.
 Young Ika are born from eggs, which are buried and hatch without any parent over about 5 months.
 They mature over another 5 months to a year, depending on how much food they have available and live up to 10 years afterwards.
+Ika survive by eating smaller fish and other underwater creatures.
+They often just swim and swallow them whole.
 
 ### Iko
 
@@ -21,6 +23,7 @@ They look like Ika, but have their bottom extremities developed into actual arms
 Those hands even have four fingers each, making them a lot more adapt to living outside of water. 
 As a result of having legs they can walk on, Iko's bodies are more curved allowing them to stand more straight.
 They still have two fins, one at the back and one at the top of their body, allowing them to still swim well, despite living out of water most of the time.
+Like Ika, Iko also eat mostly fish and similar creatures, but since they survive outside of water they also eat plants and animals they can find where they live.
 
 
 * live in the shallow sea water in the north west 

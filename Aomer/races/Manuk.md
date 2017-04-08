@@ -10,6 +10,7 @@ Their feet are very short and only make up for a height of 30-50 centimeters, wh
 On the backside, they have a sort of tail made of feathers, which gives them more aerodynamics when flying.
 Young Manuk hatch from eggs 3 months after being laid and grow their feathers within their first half year.
 They start flying after another half year, at which point they are matured and live for up to 50 years.
+The live off fruit and plant seeds, while some even eat meat from other animals, of which they need a lot more, because their bodies aren't adjusted to digesting it as well.
 
 * shouldn't look like humans, humans are boring
 * can fly 

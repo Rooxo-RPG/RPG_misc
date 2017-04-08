@@ -10,7 +10,8 @@ They only have two fingers on each hand and no feet to speak of.
 Under the stones that cover their body they don't have any skin, leaving bare skin if stones are removed. 
 This is why the stones are deep inside their flesh, inserted as soon as they reach full height after 5 years they take to mature.
 During that time Kala are very sensitive and have to be protected by older ones so they don't die.
-Once they have reached maturity they don't die for hundreds of years, some almost reaching the age of 1000.
+Once they have reached maturity they don't die for hundreds of years, some almost living for a thousand years.
+The bodies of Kala survive with very little food, only needing the few plants they can find in the high mountains where they live.
 
 * live in the mountain range in the center 
 * have bodies surrounded by rock

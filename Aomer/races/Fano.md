@@ -20,6 +20,7 @@ A Fano standing on its legs can be easily thrown over onto its back using the ri
 Arms and legs are both, like the neck, being able to move into all directions, only being limited by the shell itself, but hands and feet are mostly just a flat extension of the arm and leg tubes. 
 So a Fano holding onto a tree has to entwine the tree using its arms and pushing its feet into the ground, eating from the leaves using its mouth.
 Fano are born from eggs and grow to their full size over up to 50 years, which is around a fifth of the lifespan of an average Fano.
+Drabo are living on tree leaves mostly, but can also eat other plants.
 
 * live on north island
 

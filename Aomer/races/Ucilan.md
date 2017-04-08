@@ -10,6 +10,7 @@ Their head has a rounded triangle shape, eyes sticking out on the sides, and mou
 Noses are just two small holes in the front. 
 The head is directly on the body, which is scaled with most colors  being possible.
 Ucilan are born from eggs that are buried underground and grow up over the course of only 2 weeks, after which they live for another 2 years, before they die.
+They survive by eating small animals they can catch and digest them very slowly, so they only need to eat once every few months, depending on how big their last meal was
 
 ## additional notes(WIP)
 
