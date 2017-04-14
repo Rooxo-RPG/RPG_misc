@@ -21,11 +21,11 @@ They all tried killing and sabotaging each other in the hope of being able to fr
 
 ## The Raul empire
 
-After 3000 years, when all societies had formed, the Raul had expanded over most of the plains and forests of Kliss.
+After 3000 years, after all societies had formed, the Raul had expanded over most of the plains and forests of Kliss.
 When they didn't have any more room to expand they attacked the Drubo forest, conquering the Orein people and conquering the Gero on Kliss.
 Once they had secured the forest, they attacked the Wrasok Highlands, hoping to defeat the Kala people.
 The warriors of the Kala people crushed them, however, as the sharp teeth and claws of the Raul don't have much use against their stone bodies. 
-After their crushing defeat in the mountains, the Raul attacked the Ucilan instead and conquered all of the deserts, slaughtering most that stood in their way and enslaving the rest.
+After being defeated in the mountains, the Raul attacked the Ucilan instead and conquered all of the deserts, slaughtering most that stood in their way and enslaving the rest.
 After that they conquered the Iko in the Obol Archipelago.
 Some of them could escape into the sea to the Ika, but most weren't as lucky.
 This prompted the Manuk to willingly surrender themselves and joining the Raul empire to avoid getting slaugthered.
@@ -43,7 +43,7 @@ Unfortunately the strongest warriors of the Raul were no match for the powerful 
 This was the worst defeat the Raul had ever faced, diminishing their army and leaving them weak.
 The Orein, seeing their opportunity, made an alliance with the Kala people, who until now refused to help them for fear of being defeated when fighting outside the mountains.
 After the Kala joined the revolution, almost all other races(except the Gabu) joined as well, and they could overthow the empire, albeit with huge losses.
-Most of the Raul population was slaughtered in the attacks and the rest were forced into Flok grove, which then was surrounded by walls and stationed soldiers from the races defeating them.
+Most of the Raul population was slaughtered in the attacks and the few survivors were forced into Flok grove, which then was surrounded by walls and stationed soldiers from the races defeating them.
 After this fall, most races returned to their homelands and rebuilt their societies that were oppressed by the Raul.
 The places, where the Raul lived before the start of their empire became neutral places, containing mixed towns and villages. 
 
