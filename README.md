@@ -4,11 +4,12 @@ Everything I made for tabletop games and worlds I built
 
 ## Content 
 
+* Aomer: a fantasy world I'm creating
 * SADBOYS: a DnD 4e campaign about a group of bandits called the S A D B O Y S
-* The Party: a random fantasy party for a oneshot that never happened
+* DnD Party: a random fantasy party for a oneshot that never happened
 * SAO: one floor(based on floor 35 in the anime) of SAO in GURPS lite
-* bioshock: detective mistery in rapture from bioshock
-* post-apocalypse: a post-apocalyptic setting(no plot)
+* rapture detective: detective mistery in rapture from bioshock
+* nuclear wasteland: a post-apocalyptic setting
 * Systems: my notes on different systems I've read
 * unused: stuff I might want to use later
 

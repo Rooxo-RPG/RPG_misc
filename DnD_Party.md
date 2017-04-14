@@ -1,6 +1,5 @@
 # The Party
 
-
 The party consists of 5 people, the half-human, half-dragonborn wizard Faye
 Grimmsy, the dwarfen fighter Gramthrun Hammerforge and his best friend the
 cleric Sylvarus Aldion and the tiefling sisters Eaki the rogue and Yatari the
