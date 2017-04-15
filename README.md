@@ -9,7 +9,8 @@ Everything I made for tabletop games and worlds I built
 * DnD Party: a random fantasy party for a oneshot that never happened
 * SAO: one floor(based on floor 35 in the anime) of SAO in GURPS lite
 * rapture detective: detective mistery in rapture from bioshock
-* nuclear wasteland: a post-apocalyptic setting
+* post apocalypse: a post-apocalyptic setting
+* post apocalypse: a post apocalyptic setting with superpowers
 * Systems: my notes on different systems I've read
 * unused: stuff I might want to use later
 
