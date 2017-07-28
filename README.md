@@ -4,15 +4,18 @@ Everything I made for tabletop games and worlds I built
 
 ## Content 
 
-* Aomer: a fantasy world I'm creating
-* SADBOYS: a DnD 4e campaign about a group of bandits called the S A D B O Y S
-* DnD Party: a random fantasy party for a oneshot that never happened
-* SAO: one floor(based on floor 35 in the anime) of SAO in GURPS lite
-* rapture detective: detective mistery in rapture from bioshock
-* post apocalypse: a post-apocalyptic setting
-* post apocalypse: a post apocalyptic setting with superpowers
-* Systems: my notes on different systems I've read
-* unused: stuff I might want to use later
+* Aomer - fantasy world, currently defunct 
+* fleshbending - magic system wor WIP fantasy worls
+* RPG - RPG stuff
+  * DnD_Party - old party for DnD game( no character sheets available)
+  * Baal - horror RPG setting
+  * nuclear_wasteland - post apoalyptic setting
+  * project_ATLAS- post apocalyptic setting with superpowers 
+  * murder_of_vincent_bernard - detective story set in rapture
+  * SADBOYS - DnD campaign(technically still ongoing)
+  * SAO_floor35 - SAO setting for GURPS
+* systems - RPG systems
+* unused - unused ideas for more worlds
 
 ## Sources
 
