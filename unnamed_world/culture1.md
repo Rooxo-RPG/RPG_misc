@@ -57,3 +57,32 @@ If someone wishes to change their job and possible their social standing with it
 At that point the person is no longer considered part of the family they left, but considered a normal member of the family they joined.
 If someone doesn't want to stay in their family and also doesn't find a family to take them, or their head of house doesn't want to let them gone, young adults can also take the hard path and completely leave the village, hoping to join a different one or living in the wilderness on their own.
 
+## Technology 
+
+Tribes living near volcanoes have access to obsidian, which is considered the best available material for weapons and tools. 
+The obsidian is either gathered at the foot of the volcano, where only little can be found or up in the mountains where gathering parties have to face off against CLUTURE2 people living in the mountains.
+Other tribes have to either trade for obsidian with tribes that have access to it or use stones as a substitute.
+Most use stone, since obsidian is relatively rare, and tribes that do trade with it often demand high prices only few can afford.
+In terms of agriculture, the only domesticated plant is the PLANT2, which is planted around the outside of villages and from which a cotton-like substance is harvested, that is used to make fabric and strings.
+There's also LIZARDS, used as hunting companions and pets in many tribes.
+Other than that, CULTURE1 is mainly a hunter-gatherer society, getting their food and supplies from plants and animals.
+Some berry plants and roots are able to be somewhat domesticated in some places, but understanding of these plants is very few and far between, making most experiments barely successful.
+
+### Weapons
+
+Warriors and hunters both use a spears, staffs, daggers and bows. 
+The spears are just long poles of wood, that are either sharpened in the front or have a sharp piece of stone or obsidian attached at the front. 
+Some people prefer purely wooden spears, because of how they fly in comparison to the other ones.
+Other people prefer spears with additional tops attached, since those have an easier time puncturing armor and animal hide.
+Staffs are very similar to spears, except they are not sharpened in the front and are used differently. 
+They are mostly used as fighting weapons rather than hunting weapons and have a lot more complicated fighting styles than the other weapons.
+For staffs there are also two different types, one with sharp stones or obsidian pieces attached at the ends and one without.
+The type with ends are slower but more dangerous as they can leave more dangerous scarsm while the other type is faster but not as deadly.
+For both types there are special fighting styles to bring out their full potential.
+Daggers are made from only a piece of stone or obsidian and sometimes a wodden handle attached to it.
+They are barely used for fighting, but as knifes, to skin and gut animals and similar tasks.
+Warriors still usually keep a dagger on them for very close combat or if they ever need to cut something.
+Bow and arrow are the last common type of weapon, they are very straightforward.
+Using a piece of bendable wood and a string, bows are created, and sharpened sticks of wood are used as arrows.
+Like with spears, arrows can either be made solely from wood or have an attached top made from stone or obsidian.
+Again, arrows without attached tops have better aerodynamics while arrows with attached tops can puncture armor and skins more easily.
