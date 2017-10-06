@@ -4,8 +4,8 @@ Everything I made for tabletop games and worlds I built
 
 ## Content 
 
-* Aomer - fantasy world, currently defunct 
-* fleshbending - magic system wor WIP fantasy worls
+* Aomer - map for a fantasy setting
+* Balman - low fantasy, stone-age world with fleshbending magic
 * RPG - RPG stuff
   * DnD_Party - old party for DnD game( no character sheets available)
   * Baal - horror RPG setting
@@ -16,6 +16,10 @@ Everything I made for tabletop games and worlds I built
   * SAO_floor35 - SAO setting for GURPS
 * systems - RPG systems
 * unused - unused ideas for more worlds
+	* Gero - a race of froglike people
+	* Ucilan - a race of threeheaded snakes
+	* Kala - a race of people with stone skin
+	* ideas - ideas that haven't been fleshed out 
 
 ## Sources
 
