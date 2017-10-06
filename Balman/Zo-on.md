@@ -6,14 +6,14 @@ Thus, neighboring tribes influence each other and their neighbors their own neig
 
 # Religion
 
-Most people of Zo-on believe in RELIGION1, which teaches that whenever a person is born some amount of "free evil", an invisible substance floating the earth is bound in that soul.
+Most people of Zo-on believe in Pija, which teaches that whenever a person is born some amount of "free evil", an invisible substance floating the earth is bound in that soul.
 When that person dies, the evil will then evaporate from that body over the course of the next day, releasing the evil contained in the soul back into the world.
 In order to stop that from happening the bodies of dead people are burned as fast as possible when a person dies, in the so-called ancestral flames, a huge fire that's contantly burning in each village.
 When a body is burned in that timeframe, the people believe, the energy will not be released into the world, but contained within the flames.
 The fact that flames turn a dark red, when such a body is burned is taken as evidence for this, as well as the fleshstones that appear after a lot of bodies are burned.
 Removing evil from the world in this way serves two purposes: 
 Firstly, only a person whose body has been purged by the flames, removing the evil contained will be able to move on to the afterlife.
-Secondly, every time evil is absorbed by fire, it is removed from the world and, according to RELIGION1, once all the free evil is removed from the world, people can be perfectly good.
+Secondly, every time evil is absorbed by fire, it is removed from the world and, according to Pija, once all the free evil is removed from the world, people can be perfectly good.
 Once all the evil has been removed from the world, they believe, people will be perfectly good and no one will act evil, because all evil deeds come from some of the evil that's either interior to a person or an external force.
 Such evil deeds, they believe, increase the evil within a person and increase the amount of free evil in the world, which is why crime is heavily punished.
 For serious crimes a person will be sentenced to death by being burned alive, a process which is supposed to cleanse the soul as well as the body, allowing the person to be rid of the evil within them and allow them to go to the afterlife.

@@ -77,3 +77,4 @@ Either of the following:
 * Ku-una - other people/enemies
 * Dlishu - poison/drug
 * Flapa- - Cotton like plant
+* Pija - The religion of the Zo-on people
