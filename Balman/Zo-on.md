@@ -1,12 +1,12 @@
-# CULTURE1
+# Zo-on
 
-The CULTURE1 people live in small tribes, without any central government. 
+The Zo-on people live in small tribes, without any central government. 
 Tribes are in contact with each other, waging small wars or forging alliances with nearby other tribes.
 Thus, neighboring tribes influence each other and their neighbors their own neighbors and so on, leading to some shared culture that gets more diluted the further you stray from a tribe.
 
 # Religion
 
-Most people of CULTURE1 believe in RELIGION1, which teaches that whenever a person is born some amount of "free evil", an invisible substance floating the earth is bound in that soul.
+Most people of Zo-on believe in RELIGION1, which teaches that whenever a person is born some amount of "free evil", an invisible substance floating the earth is bound in that soul.
 When that person dies, the evil will then evaporate from that body over the course of the next day, releasing the evil contained in the soul back into the world.
 In order to stop that from happening the bodies of dead people are burned as fast as possible when a person dies, in the so-called ancestral flames, a huge fire that's contantly burning in each village.
 When a body is burned in that timeframe, the people believe, the energy will not be released into the world, but contained within the flames.
@@ -18,13 +18,13 @@ Once all the evil has been removed from the world, they believe, people will be 
 Such evil deeds, they believe, increase the evil within a person and increase the amount of free evil in the world, which is why crime is heavily punished.
 For serious crimes a person will be sentenced to death by being burned alive, a process which is supposed to cleanse the soul as well as the body, allowing the person to be rid of the evil within them and allow them to go to the afterlife.
 The way such a execution takes place is in a few steps.
-At first, the sentenced will be sedated with PLANT1 in order to make the rest of the procedure less painful for them.
+At first, the sentenced will be sedated with Dlishu in order to make the rest of the procedure less painful for them.
 Then they will be placed in the middle of the town on a prepared stand, where they will be burned alive.
 Here, the fact that the flames turn a darker red than if a person has died naturally is also taken as evidence there's more evil within that person.
 Once the person has died, a wodden connection from the pyre to a different fire that's always burning, the criminal flames will be closed and the fire will be allowed to spread from the pyre to there.
 Once the flames have joined the criminal flames and the pyre and the connection have burned down the ceremony is over and the remaining coals will be removed.
 Both the criminal and ancestral flames are always kept burning in order to ensure the evil the flames supposedly contain won't return to the world.
-After many bodies or criminals have been burned and the flames go out, forming a fleshstone, this new fleshstone will be taken by a priest and hidden far from the village out of fear CULTURE2 will find them on raids.
+After many bodies or criminals have been burned and the flames go out, forming a fleshstone, this new fleshstone will be taken by a priest and hidden far from the village out of fear Ku-una will find them on raids.
 
 ## Architecture
 
@@ -64,8 +64,8 @@ The obsidian is either gathered at the foot of the volcano, where only little ca
 Other tribes have to either trade for obsidian with tribes that have access to it or use stones as a substitute.
 Most use stone, since obsidian is relatively rare, and tribes that do trade with it often demand high prices only few can afford.
 In terms of agriculture, the only domesticated plant is the PLANT2, which is planted around the outside of villages and from which a cotton-like substance is harvested, that is used to make fabric and strings.
-There's also LIZARDS, used as hunting companions and pets in many tribes.
-Other than that, CULTURE1 is mainly a hunter-gatherer society, getting their food and supplies from plants and animals.
+There's also Ka-ada, used as hunting companions and pets in many tribes.
+Other than that, Zo-on is mainly a hunter-gatherer society, getting their food and supplies from plants and animals.
 Some berry plants and roots are able to be somewhat domesticated in some places, but understanding of these plants is very few and far between, making most experiments barely successful.
 
 ### Weapons
